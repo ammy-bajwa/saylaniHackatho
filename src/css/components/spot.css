@@ -1,0 +1,26 @@
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    color: #fff;
+    cursor: default;
+    background-color: #222;
+    border: 1px solid rgb(132, 132, 132);
+    border-bottom-color: transparent;
+    margin-bottom: 2em;
+}
+.nav-tabs {
+    border-bottom: 1px solid #ddd;
+    padding-left: 10%;
+}
+a{
+    color: #222;
+}
+.myParkingSpots {
+    border-radius: .5em;
+    border: .5em solid #222;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding: 15%;
+    min-height: 200px;
+}
+.spot{
+    border:1px solid #222;
+}

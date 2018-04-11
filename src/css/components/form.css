@@ -1,0 +1,14 @@
+.myForm {
+    border-radius: .5em;
+    border: .5em solid #222;
+    margin: 0%;
+    padding: 2%;
+    min-height: 300px;
+}
+.myFormParking {
+    border-radius: .5em;
+    border: .5em solid #222;
+    margin: 0%;
+    padding: 2%;
+    min-height: 200px;
+}

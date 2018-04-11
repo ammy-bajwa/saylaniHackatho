@@ -1,0 +1,35 @@
+@import './components/form.css';
+@import './components/spot.css';
+@import './components/booking.css';
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 50px;
+  color: white;
+}
+.Spot-header {
+  background-color: #222;
+  padding: 10px;
+  color: white;
+  margin: .5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
